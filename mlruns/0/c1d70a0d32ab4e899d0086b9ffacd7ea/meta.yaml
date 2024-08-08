@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/c1d70a0d32ab4e899d0086b9ffacd7ea/artifacts
+end_time: 1681996640912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1d70a0d32ab4e899d0086b9ffacd7ea
+run_name: traveling-ram-557
+run_uuid: c1d70a0d32ab4e899d0086b9ffacd7ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996638020
+status: 3
+tags: []
+user_id: linibm

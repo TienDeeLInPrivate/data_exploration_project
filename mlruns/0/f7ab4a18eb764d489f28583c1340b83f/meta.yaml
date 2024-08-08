@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/f7ab4a18eb764d489f28583c1340b83f/artifacts
+end_time: 1681996603776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7ab4a18eb764d489f28583c1340b83f
+run_name: polite-kit-102
+run_uuid: f7ab4a18eb764d489f28583c1340b83f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996601069
+status: 3
+tags: []
+user_id: linibm

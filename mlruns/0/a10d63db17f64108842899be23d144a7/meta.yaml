@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/a10d63db17f64108842899be23d144a7/artifacts
+end_time: 1681996629390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a10d63db17f64108842899be23d144a7
+run_name: popular-hound-916
+run_uuid: a10d63db17f64108842899be23d144a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996626615
+status: 3
+tags: []
+user_id: linibm

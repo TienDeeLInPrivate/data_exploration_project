@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/9aa8e83412e7444faee3fd26f04f16bc/artifacts
+end_time: 1681996567219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aa8e83412e7444faee3fd26f04f16bc
+run_name: unique-bug-523
+run_uuid: 9aa8e83412e7444faee3fd26f04f16bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996564517
+status: 3
+tags: []
+user_id: linibm

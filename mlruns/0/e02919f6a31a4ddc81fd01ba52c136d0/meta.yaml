@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/e02919f6a31a4ddc81fd01ba52c136d0/artifacts
+end_time: 1681996632323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e02919f6a31a4ddc81fd01ba52c136d0
+run_name: sincere-snake-80
+run_uuid: e02919f6a31a4ddc81fd01ba52c136d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996629396
+status: 3
+tags: []
+user_id: linibm

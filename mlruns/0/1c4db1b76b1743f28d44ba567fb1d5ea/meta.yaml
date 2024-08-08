@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/1c4db1b76b1743f28d44ba567fb1d5ea/artifacts
+end_time: 1681996590186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c4db1b76b1743f28d44ba567fb1d5ea
+run_name: loud-bee-831
+run_uuid: 1c4db1b76b1743f28d44ba567fb1d5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996587341
+status: 3
+tags: []
+user_id: linibm

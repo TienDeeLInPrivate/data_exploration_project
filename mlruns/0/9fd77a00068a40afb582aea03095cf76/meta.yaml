@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/9fd77a00068a40afb582aea03095cf76/artifacts
+end_time: 1681996638014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fd77a00068a40afb582aea03095cf76
+run_name: flawless-wren-398
+run_uuid: 9fd77a00068a40afb582aea03095cf76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996635182
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/a25120cabda146c59a0a7461401cf912/artifacts
+end_time: 1681996661291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a25120cabda146c59a0a7461401cf912
+run_name: abundant-rook-64
+run_uuid: a25120cabda146c59a0a7461401cf912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996658511
+status: 3
+tags: []
+user_id: linibm

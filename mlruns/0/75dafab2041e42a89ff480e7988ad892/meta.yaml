@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/75dafab2041e42a89ff480e7988ad892/artifacts
+end_time: 1681996612511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75dafab2041e42a89ff480e7988ad892
+run_name: carefree-fawn-59
+run_uuid: 75dafab2041e42a89ff480e7988ad892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996609717
+status: 3
+tags: []
+user_id: linibm

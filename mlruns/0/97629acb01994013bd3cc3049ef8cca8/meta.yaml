@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/97629acb01994013bd3cc3049ef8cca8/artifacts
+end_time: 1681996650075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97629acb01994013bd3cc3049ef8cca8
+run_name: ambitious-vole-623
+run_uuid: 97629acb01994013bd3cc3049ef8cca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996647250
+status: 3
+tags: []
+user_id: linibm

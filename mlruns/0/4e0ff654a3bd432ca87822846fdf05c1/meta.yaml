@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/4e0ff654a3bd432ca87822846fdf05c1/artifacts
+end_time: 1681996593044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e0ff654a3bd432ca87822846fdf05c1
+run_name: delicate-shark-69
+run_uuid: 4e0ff654a3bd432ca87822846fdf05c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996590192
+status: 3
+tags: []
+user_id: linibm

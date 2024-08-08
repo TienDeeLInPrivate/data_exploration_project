@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/23778e046c5240009ab71261b2a25acc/artifacts
+end_time: 1681996684531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23778e046c5240009ab71261b2a25acc
+run_name: fearless-fowl-129
+run_uuid: 23778e046c5240009ab71261b2a25acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996681465
+status: 3
+tags: []
+user_id: linibm

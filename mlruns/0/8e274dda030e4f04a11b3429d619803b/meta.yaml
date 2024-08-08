@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/8e274dda030e4f04a11b3429d619803b/artifacts
+end_time: 1681996553619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e274dda030e4f04a11b3429d619803b
+run_name: indecisive-ant-840
+run_uuid: 8e274dda030e4f04a11b3429d619803b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996550868
+status: 3
+tags: []
+user_id: linibm

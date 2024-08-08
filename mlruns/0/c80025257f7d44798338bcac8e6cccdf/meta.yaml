@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/c80025257f7d44798338bcac8e6cccdf/artifacts
+end_time: 1681996598404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c80025257f7d44798338bcac8e6cccdf
+run_name: delicate-asp-604
+run_uuid: c80025257f7d44798338bcac8e6cccdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996595794
+status: 3
+tags: []
+user_id: linibm

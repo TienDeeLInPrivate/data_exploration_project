@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/a34d5be3cdc14207a7480b87c0a8a449/artifacts
+end_time: 1681996620956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a34d5be3cdc14207a7480b87c0a8a449
+run_name: languid-shoat-292
+run_uuid: a34d5be3cdc14207a7480b87c0a8a449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996618124
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/d5a51f4a4d0e4ee99b293d608c7e6dec/artifacts
+end_time: 1681996587334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5a51f4a4d0e4ee99b293d608c7e6dec
+run_name: amusing-dog-243
+run_uuid: d5a51f4a4d0e4ee99b293d608c7e6dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996584453
+status: 3
+tags: []
+user_id: linibm

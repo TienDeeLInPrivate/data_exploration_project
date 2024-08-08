@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/671c12f6c6f045beb7a0a5c7b790cfa8/artifacts
+end_time: 1681996687412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 671c12f6c6f045beb7a0a5c7b790cfa8
+run_name: redolent-grub-480
+run_uuid: 671c12f6c6f045beb7a0a5c7b790cfa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996684537
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/dbee97760f7d4a3c916c0f2a52fa943f/artifacts
+end_time: 1681996569977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbee97760f7d4a3c916c0f2a52fa943f
+run_name: capable-crab-453
+run_uuid: dbee97760f7d4a3c916c0f2a52fa943f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996567225
+status: 3
+tags: []
+user_id: linibm

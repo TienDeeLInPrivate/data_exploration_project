@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/6876f6f6b38544899d00159e6907c7c4/artifacts
+end_time: 1681996681459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6876f6f6b38544899d00159e6907c7c4
+run_name: traveling-robin-237
+run_uuid: 6876f6f6b38544899d00159e6907c7c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996678679
+status: 3
+tags: []
+user_id: linibm

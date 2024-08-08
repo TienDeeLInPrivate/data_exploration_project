@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/ad1ca79081d849e4a514ab20ff01e13e/artifacts
+end_time: 1681996581379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad1ca79081d849e4a514ab20ff01e13e
+run_name: nosy-crane-469
+run_uuid: ad1ca79081d849e4a514ab20ff01e13e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996578509
+status: 3
+tags: []
+user_id: linibm

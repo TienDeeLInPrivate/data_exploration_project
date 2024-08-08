@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/e8f9fe167dfb437aa574fee691f8adfb/artifacts
+end_time: 1681996572888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8f9fe167dfb437aa574fee691f8adfb
+run_name: nebulous-cod-769
+run_uuid: e8f9fe167dfb437aa574fee691f8adfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996569983
+status: 3
+tags: []
+user_id: linibm

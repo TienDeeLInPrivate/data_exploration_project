@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/72c6ccaa571b4d0fae3b1654e25c0a47/artifacts
+end_time: 1681996644077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72c6ccaa571b4d0fae3b1654e25c0a47
+run_name: indecisive-seal-57
+run_uuid: 72c6ccaa571b4d0fae3b1654e25c0a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996640918
+status: 3
+tags: []
+user_id: linibm

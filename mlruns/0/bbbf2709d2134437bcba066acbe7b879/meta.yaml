@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/bbbf2709d2134437bcba066acbe7b879/artifacts
+end_time: 1681996542830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbbf2709d2134437bcba066acbe7b879
+run_name: casual-elk-875
+run_uuid: bbbf2709d2134437bcba066acbe7b879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996538425
+status: 3
+tags: []
+user_id: linibm

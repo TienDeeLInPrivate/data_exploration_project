@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/e45cc9ac7e204174ac49053df9cce923/artifacts
+end_time: 1681996545452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e45cc9ac7e204174ac49053df9cce923
+run_name: dazzling-sheep-988
+run_uuid: e45cc9ac7e204174ac49053df9cce923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996542836
+status: 3
+tags: []
+user_id: linibm

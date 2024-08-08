@@ -1,0 +1,3 @@
+{
+  "DecisionTreeClassifier_score_features_validation": "DecisionTreeClassifier.score(X=features_validation, y=labels_validation)"
+}

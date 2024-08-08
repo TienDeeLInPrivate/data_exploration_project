@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/a4f7d8eb25d94a60ae8a8113c7f65d02/artifacts
+end_time: 1681996705249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4f7d8eb25d94a60ae8a8113c7f65d02
+run_name: auspicious-pug-563
+run_uuid: a4f7d8eb25d94a60ae8a8113c7f65d02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996702317
+status: 3
+tags: []
+user_id: linibm

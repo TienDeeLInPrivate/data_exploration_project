@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/d0a968485ea348e4a0422599342fbbb4/artifacts
+end_time: 1681996601062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0a968485ea348e4a0422599342fbbb4
+run_name: bedecked-mouse-848
+run_uuid: d0a968485ea348e4a0422599342fbbb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996598410
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/260b1cc4b65d48a09f7bec199db504ff/artifacts
+end_time: 1681996658505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 260b1cc4b65d48a09f7bec199db504ff
+run_name: able-shad-804
+run_uuid: 260b1cc4b65d48a09f7bec199db504ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996655495
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/34b72666c27d4a7a8cb6bc51deb83a15/artifacts
+end_time: 1681996618118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34b72666c27d4a7a8cb6bc51deb83a15
+run_name: powerful-goat-909
+run_uuid: 34b72666c27d4a7a8cb6bc51deb83a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996615361
+status: 3
+tags: []
+user_id: linibm

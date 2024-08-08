@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/239e949bc66d44aea61c6e6505bcd52e/artifacts
+end_time: 1681996699282
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 239e949bc66d44aea61c6e6505bcd52e
+run_name: omniscient-roo-628
+run_uuid: 239e949bc66d44aea61c6e6505bcd52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996696247
+status: 3
+tags: []
+user_id: linibm

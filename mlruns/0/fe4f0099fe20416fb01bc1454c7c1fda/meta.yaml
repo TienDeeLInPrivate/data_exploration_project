@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/fe4f0099fe20416fb01bc1454c7c1fda/artifacts
+end_time: 1681996702310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe4f0099fe20416fb01bc1454c7c1fda
+run_name: crawling-midge-563
+run_uuid: fe4f0099fe20416fb01bc1454c7c1fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996699288
+status: 3
+tags: []
+user_id: linibm

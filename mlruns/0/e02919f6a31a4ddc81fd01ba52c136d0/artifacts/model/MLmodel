@@ -1,0 +1,195 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.2.2
+model_uuid: 219ad17d962f4287aca7e605d5b1c6d2
+run_id: e02919f6a31a4ddc81fd01ba52c136d0
+signature:
+  inputs: '[{"name": "aop1_BOPE-CAPITAO", "type": "integer"}, {"name": "aop1_G.E.O.-JACKAL",
+    "type": "integer"}, {"name": "aop1_GIGN-MONTAGNE", "type": "integer"}, {"name":
+    "aop1_GIGN-RESERVE", "type": "integer"}, {"name": "aop1_GIGN-TWITCH", "type":
+    "integer"}, {"name": "aop1_GSG9-BLITZ", "type": "integer"}, {"name": "aop1_GSG9-IQ",
+    "type": "integer"}, {"name": "aop1_GSG9-RESERVE", "type": "integer"}, {"name":
+    "aop1_JTF2-BUCK", "type": "integer"}, {"name": "aop1_NAVYSEAL-BLACKBEARD", "type":
+    "integer"}, {"name": "aop1_SAS-RESERVE", "type": "integer"}, {"name": "aop1_SAS-SLEDGE",
+    "type": "integer"}, {"name": "aop1_SAS-THATCHER", "type": "integer"}, {"name":
+    "aop1_SAT-HIBANA", "type": "integer"}, {"name": "aop1_SPETSNAZ-FUZE", "type":
+    "integer"}, {"name": "aop1_SPETSNAZ-GLAZ", "type": "integer"}, {"name": "aop1_SPETSNAZ-RESERVE",
+    "type": "integer"}, {"name": "aop1_SWAT-ASH", "type": "integer"}, {"name": "aop1_SWAT-RESERVE",
+    "type": "integer"}, {"name": "aop1_SWAT-THERMITE", "type": "integer"}, {"name":
+    "aop2_BOPE-CAPITAO", "type": "integer"}, {"name": "aop2_G.E.O.-JACKAL", "type":
+    "integer"}, {"name": "aop2_GIGN-MONTAGNE", "type": "integer"}, {"name": "aop2_GIGN-RESERVE",
+    "type": "integer"}, {"name": "aop2_GIGN-TWITCH", "type": "integer"}, {"name":
+    "aop2_GSG9-BLITZ", "type": "integer"}, {"name": "aop2_GSG9-IQ", "type": "integer"},
+    {"name": "aop2_GSG9-RESERVE", "type": "integer"}, {"name": "aop2_JTF2-BUCK", "type":
+    "integer"}, {"name": "aop2_NAVYSEAL-BLACKBEARD", "type": "integer"}, {"name":
+    "aop2_SAS-RESERVE", "type": "integer"}, {"name": "aop2_SAS-SLEDGE", "type": "integer"},
+    {"name": "aop2_SAS-THATCHER", "type": "integer"}, {"name": "aop2_SAT-HIBANA",
+    "type": "integer"}, {"name": "aop2_SPETSNAZ-FUZE", "type": "integer"}, {"name":
+    "aop2_SPETSNAZ-GLAZ", "type": "integer"}, {"name": "aop2_SPETSNAZ-RESERVE", "type":
+    "integer"}, {"name": "aop2_SWAT-ASH", "type": "integer"}, {"name": "aop2_SWAT-RESERVE",
+    "type": "integer"}, {"name": "aop2_SWAT-THERMITE", "type": "integer"}, {"name":
+    "aop3_BOPE-CAPITAO", "type": "integer"}, {"name": "aop3_G.E.O.-JACKAL", "type":
+    "integer"}, {"name": "aop3_GIGN-MONTAGNE", "type": "integer"}, {"name": "aop3_GIGN-RESERVE",
+    "type": "integer"}, {"name": "aop3_GIGN-TWITCH", "type": "integer"}, {"name":
+    "aop3_GSG9-BLITZ", "type": "integer"}, {"name": "aop3_GSG9-IQ", "type": "integer"},
+    {"name": "aop3_GSG9-RESERVE", "type": "integer"}, {"name": "aop3_JTF2-BUCK", "type":
+    "integer"}, {"name": "aop3_NAVYSEAL-BLACKBEARD", "type": "integer"}, {"name":
+    "aop3_SAS-RESERVE", "type": "integer"}, {"name": "aop3_SAS-SLEDGE", "type": "integer"},
+    {"name": "aop3_SAS-THATCHER", "type": "integer"}, {"name": "aop3_SAT-HIBANA",
+    "type": "integer"}, {"name": "aop3_SPETSNAZ-FUZE", "type": "integer"}, {"name":
+    "aop3_SPETSNAZ-GLAZ", "type": "integer"}, {"name": "aop3_SPETSNAZ-RESERVE", "type":
+    "integer"}, {"name": "aop3_SWAT-ASH", "type": "integer"}, {"name": "aop3_SWAT-RESERVE",
+    "type": "integer"}, {"name": "aop3_SWAT-THERMITE", "type": "integer"}, {"name":
+    "aop4_BOPE-CAPITAO", "type": "integer"}, {"name": "aop4_G.E.O.-JACKAL", "type":
+    "integer"}, {"name": "aop4_GIGN-MONTAGNE", "type": "integer"}, {"name": "aop4_GIGN-RESERVE",
+    "type": "integer"}, {"name": "aop4_GIGN-TWITCH", "type": "integer"}, {"name":
+    "aop4_GSG9-BLITZ", "type": "integer"}, {"name": "aop4_GSG9-IQ", "type": "integer"},
+    {"name": "aop4_GSG9-RESERVE", "type": "integer"}, {"name": "aop4_JTF2-BUCK", "type":
+    "integer"}, {"name": "aop4_NAVYSEAL-BLACKBEARD", "type": "integer"}, {"name":
+    "aop4_SAS-RESERVE", "type": "integer"}, {"name": "aop4_SAS-SLEDGE", "type": "integer"},
+    {"name": "aop4_SAS-THATCHER", "type": "integer"}, {"name": "aop4_SAT-HIBANA",
+    "type": "integer"}, {"name": "aop4_SPETSNAZ-FUZE", "type": "integer"}, {"name":
+    "aop4_SPETSNAZ-GLAZ", "type": "integer"}, {"name": "aop4_SPETSNAZ-RESERVE", "type":
+    "integer"}, {"name": "aop4_SWAT-ASH", "type": "integer"}, {"name": "aop4_SWAT-RESERVE",
+    "type": "integer"}, {"name": "aop4_SWAT-THERMITE", "type": "integer"}, {"name":
+    "aop5_BOPE-CAPITAO", "type": "integer"}, {"name": "aop5_G.E.O.-JACKAL", "type":
+    "integer"}, {"name": "aop5_GIGN-MONTAGNE", "type": "integer"}, {"name": "aop5_GIGN-RESERVE",
+    "type": "integer"}, {"name": "aop5_GIGN-TWITCH", "type": "integer"}, {"name":
+    "aop5_GSG9-BLITZ", "type": "integer"}, {"name": "aop5_GSG9-IQ", "type": "integer"},
+    {"name": "aop5_GSG9-RESERVE", "type": "integer"}, {"name": "aop5_JTF2-BUCK", "type":
+    "integer"}, {"name": "aop5_NAVYSEAL-BLACKBEARD", "type": "integer"}, {"name":
+    "aop5_SAS-RESERVE", "type": "integer"}, {"name": "aop5_SAS-SLEDGE", "type": "integer"},
+    {"name": "aop5_SAS-THATCHER", "type": "integer"}, {"name": "aop5_SAT-HIBANA",
+    "type": "integer"}, {"name": "aop5_SPETSNAZ-FUZE", "type": "integer"}, {"name":
+    "aop5_SPETSNAZ-GLAZ", "type": "integer"}, {"name": "aop5_SPETSNAZ-RESERVE", "type":
+    "integer"}, {"name": "aop5_SWAT-ASH", "type": "integer"}, {"name": "aop5_SWAT-RESERVE",
+    "type": "integer"}, {"name": "aop5_SWAT-THERMITE", "type": "integer"}, {"name":
+    "dop1_BOPE-CAVEIRA", "type": "integer"}, {"name": "dop1_G.E.O.-MIRA", "type":
+    "integer"}, {"name": "dop1_GIGN-DOC", "type": "integer"}, {"name": "dop1_GIGN-RESERVE",
+    "type": "integer"}, {"name": "dop1_GIGN-ROOK", "type": "integer"}, {"name": "dop1_GSG9-BANDIT",
+    "type": "integer"}, {"name": "dop1_GSG9-JAGER", "type": "integer"}, {"name": "dop1_GSG9-RESERVE",
+    "type": "integer"}, {"name": "dop1_JTF2-FROST", "type": "integer"}, {"name": "dop1_NAVYSEAL-VALKYRIE",
+    "type": "integer"}, {"name": "dop1_SAS-MUTE", "type": "integer"}, {"name": "dop1_SAS-RESERVE",
+    "type": "integer"}, {"name": "dop1_SAS-SMOKE", "type": "integer"}, {"name": "dop1_SAT-ECHO",
+    "type": "integer"}, {"name": "dop1_SPETSNAZ-KAPKAN", "type": "integer"}, {"name":
+    "dop1_SPETSNAZ-RESERVE", "type": "integer"}, {"name": "dop1_SPETSNAZ-TACHANKA",
+    "type": "integer"}, {"name": "dop1_SWAT-CASTLE", "type": "integer"}, {"name":
+    "dop1_SWAT-PULSE", "type": "integer"}, {"name": "dop1_SWAT-RESERVE", "type": "integer"},
+    {"name": "dop2_BOPE-CAVEIRA", "type": "integer"}, {"name": "dop2_G.E.O.-MIRA",
+    "type": "integer"}, {"name": "dop2_GIGN-DOC", "type": "integer"}, {"name": "dop2_GIGN-RESERVE",
+    "type": "integer"}, {"name": "dop2_GIGN-ROOK", "type": "integer"}, {"name": "dop2_GSG9-BANDIT",
+    "type": "integer"}, {"name": "dop2_GSG9-JAGER", "type": "integer"}, {"name": "dop2_GSG9-RESERVE",
+    "type": "integer"}, {"name": "dop2_JTF2-FROST", "type": "integer"}, {"name": "dop2_NAVYSEAL-VALKYRIE",
+    "type": "integer"}, {"name": "dop2_SAS-MUTE", "type": "integer"}, {"name": "dop2_SAS-RESERVE",
+    "type": "integer"}, {"name": "dop2_SAS-SMOKE", "type": "integer"}, {"name": "dop2_SAT-ECHO",
+    "type": "integer"}, {"name": "dop2_SPETSNAZ-KAPKAN", "type": "integer"}, {"name":
+    "dop2_SPETSNAZ-RESERVE", "type": "integer"}, {"name": "dop2_SPETSNAZ-TACHANKA",
+    "type": "integer"}, {"name": "dop2_SWAT-CASTLE", "type": "integer"}, {"name":
+    "dop2_SWAT-PULSE", "type": "integer"}, {"name": "dop2_SWAT-RESERVE", "type": "integer"},
+    {"name": "dop3_BOPE-CAVEIRA", "type": "integer"}, {"name": "dop3_G.E.O.-MIRA",
+    "type": "integer"}, {"name": "dop3_GIGN-DOC", "type": "integer"}, {"name": "dop3_GIGN-RESERVE",
+    "type": "integer"}, {"name": "dop3_GIGN-ROOK", "type": "integer"}, {"name": "dop3_GSG9-BANDIT",
+    "type": "integer"}, {"name": "dop3_GSG9-JAGER", "type": "integer"}, {"name": "dop3_GSG9-RESERVE",
+    "type": "integer"}, {"name": "dop3_JTF2-FROST", "type": "integer"}, {"name": "dop3_NAVYSEAL-VALKYRIE",
+    "type": "integer"}, {"name": "dop3_SAS-MUTE", "type": "integer"}, {"name": "dop3_SAS-RESERVE",
+    "type": "integer"}, {"name": "dop3_SAS-SMOKE", "type": "integer"}, {"name": "dop3_SAT-ECHO",
+    "type": "integer"}, {"name": "dop3_SPETSNAZ-KAPKAN", "type": "integer"}, {"name":
+    "dop3_SPETSNAZ-RESERVE", "type": "integer"}, {"name": "dop3_SPETSNAZ-TACHANKA",
+    "type": "integer"}, {"name": "dop3_SWAT-CASTLE", "type": "integer"}, {"name":
+    "dop3_SWAT-PULSE", "type": "integer"}, {"name": "dop3_SWAT-RESERVE", "type": "integer"},
+    {"name": "dop4_BOPE-CAVEIRA", "type": "integer"}, {"name": "dop4_G.E.O.-MIRA",
+    "type": "integer"}, {"name": "dop4_GIGN-DOC", "type": "integer"}, {"name": "dop4_GIGN-RESERVE",
+    "type": "integer"}, {"name": "dop4_GIGN-ROOK", "type": "integer"}, {"name": "dop4_GSG9-BANDIT",
+    "type": "integer"}, {"name": "dop4_GSG9-JAGER", "type": "integer"}, {"name": "dop4_GSG9-RESERVE",
+    "type": "integer"}, {"name": "dop4_JTF2-FROST", "type": "integer"}, {"name": "dop4_NAVYSEAL-VALKYRIE",
+    "type": "integer"}, {"name": "dop4_SAS-MUTE", "type": "integer"}, {"name": "dop4_SAS-RESERVE",
+    "type": "integer"}, {"name": "dop4_SAS-SMOKE", "type": "integer"}, {"name": "dop4_SAT-ECHO",
+    "type": "integer"}, {"name": "dop4_SPETSNAZ-KAPKAN", "type": "integer"}, {"name":
+    "dop4_SPETSNAZ-RESERVE", "type": "integer"}, {"name": "dop4_SPETSNAZ-TACHANKA",
+    "type": "integer"}, {"name": "dop4_SWAT-CASTLE", "type": "integer"}, {"name":
+    "dop4_SWAT-PULSE", "type": "integer"}, {"name": "dop4_SWAT-RESERVE", "type": "integer"},
+    {"name": "dop5_BOPE-CAVEIRA", "type": "integer"}, {"name": "dop5_G.E.O.-MIRA",
+    "type": "integer"}, {"name": "dop5_GIGN-DOC", "type": "integer"}, {"name": "dop5_GIGN-RESERVE",
+    "type": "integer"}, {"name": "dop5_GIGN-ROOK", "type": "integer"}, {"name": "dop5_GSG9-BANDIT",
+    "type": "integer"}, {"name": "dop5_GSG9-JAGER", "type": "integer"}, {"name": "dop5_GSG9-RESERVE",
+    "type": "integer"}, {"name": "dop5_JTF2-FROST", "type": "integer"}, {"name": "dop5_NAVYSEAL-VALKYRIE",
+    "type": "integer"}, {"name": "dop5_SAS-MUTE", "type": "integer"}, {"name": "dop5_SAS-RESERVE",
+    "type": "integer"}, {"name": "dop5_SAS-SMOKE", "type": "integer"}, {"name": "dop5_SAT-ECHO",
+    "type": "integer"}, {"name": "dop5_SPETSNAZ-KAPKAN", "type": "integer"}, {"name":
+    "dop5_SPETSNAZ-RESERVE", "type": "integer"}, {"name": "dop5_SPETSNAZ-TACHANKA",
+    "type": "integer"}, {"name": "dop5_SWAT-CASTLE", "type": "integer"}, {"name":
+    "dop5_SWAT-PULSE", "type": "integer"}, {"name": "dop5_SWAT-RESERVE", "type": "integer"},
+    {"name": "mapname_BANK", "type": "integer"}, {"name": "mapname_BARTLETT_U.", "type":
+    "integer"}, {"name": "mapname_BORDER", "type": "integer"}, {"name": "mapname_CHALET",
+    "type": "integer"}, {"name": "mapname_CLUB_HOUSE", "type": "integer"}, {"name":
+    "mapname_COASTLINE", "type": "integer"}, {"name": "mapname_CONSULATE", "type":
+    "integer"}, {"name": "mapname_FAVELAS", "type": "integer"}, {"name": "mapname_HEREFORD_BASE",
+    "type": "integer"}, {"name": "mapname_HOUSE", "type": "integer"}, {"name": "mapname_KAFE_DOSTOYEVSKY",
+    "type": "integer"}, {"name": "mapname_KANAL", "type": "integer"}, {"name": "mapname_OREGON",
+    "type": "integer"}, {"name": "mapname_PLANE", "type": "integer"}, {"name": "mapname_SKYSCRAPER",
+    "type": "integer"}, {"name": "mapname_YACHT", "type": "integer"}, {"name": "objectivelocation_1F_BBQ-1F_KITCHEN",
+    "type": "integer"}, {"name": "objectivelocation_1F_BEDROOM-1F_BATHROOM", "type":
+    "integer"}, {"name": "objectivelocation_1F_BIKER''S_APARTMENT-1F_BIKER''S_BEDROOM",
+    "type": "integer"}, {"name": "objectivelocation_1F_BLUE_BAR-1F_SUNRISE_BAR", "type":
+    "integer"}, {"name": "objectivelocation_1F_KITCHEN-1F_SERVICE_ENTRANCE", "type":
+    "integer"}, {"name": "objectivelocation_2F_AUNT''S_BEDROOM-1F_AUNT''S_APARTMENT",
+    "type": "integer"}, {"name": "objectivelocation_2F_EXHIBITION-2F_WORK_OFFICE",
+    "type": "integer"}, {"name": "objectivelocation_2F_FOOTBALL_BEDROOM-2F_FOOTBALL_OFFICE",
+    "type": "integer"}, {"name": "objectivelocation_2F_HOOKAH_LOUNGE-2F_BILLIARDS_ROOM",
+    "type": "integer"}, {"name": "objectivelocation_2F_KARAOKE-2F_TEA_ROOM", "type":
+    "integer"}, {"name": "objectivelocation_2F_PENTHOUSE-2F_THEATER", "type": "integer"},
+    {"name": "objectivelocation_3F_PACKAGING_ROOM-2F_METH_LAB", "type": "integer"},
+    {"name": "objectivelocation_ARMORY_LOCKERS-ARCHIVES", "type": "integer"}, {"name":
+    "objectivelocation_BAR-COCKTAIL_LOUNGE", "type": "integer"}, {"name": "objectivelocation_BAR-GAMING_ROOM",
+    "type": "integer"}, {"name": "objectivelocation_BAR-STOCK_ROOM", "type": "integer"},
+    {"name": "objectivelocation_BATHROOM-TELLERS", "type": "integer"}, {"name": "objectivelocation_BRIEFING_ROOM-ARMORY",
+    "type": "integer"}, {"name": "objectivelocation_CAFETERIA-STAFF_DORMITORY", "type":
+    "integer"}, {"name": "objectivelocation_CARGO_HOLD-LUGGAGE_HOLD", "type": "integer"},
+    {"name": "objectivelocation_CCTV_ROOM-CASH_ROOM", "type": "integer"}, {"name":
+    "objectivelocation_CHURCH-ARSENAL_ROOM", "type": "integer"}, {"name": "objectivelocation_CLASSROOM-LIBRARY",
+    "type": "integer"}, {"name": "objectivelocation_COAST_GUARD_OFFICE-HOLDING_ROOM",
+    "type": "integer"}, {"name": "objectivelocation_CONSUL_OFFICE-MEEETING_ROOM",
+    "type": "integer"}, {"name": "objectivelocation_CUSTOMS_INSPECTIONS-SUPPLY_ROOM",
+    "type": "integer"}, {"name": "objectivelocation_DINING_ROOM-KIDS_BEDROOM", "type":
+    "integer"}, {"name": "objectivelocation_DUMMY_DEPOT-STORAGE", "type": "integer"},
+    {"name": "objectivelocation_EXECUTIVE_LOUNGE-CEO_OFFICE", "type": "integer"},
+    {"name": "objectivelocation_FIREPLACE_HALL-MINING_ROOM", "type": "integer"}, {"name":
+    "objectivelocation_GARAGE-CAFETERIA", "type": "integer"}, {"name": "objectivelocation_GYM-BEDROOM",
+    "type": "integer"}, {"name": "objectivelocation_KID''S_BEDROOM-WORKSHOP", "type":
+    "integer"}, {"name": "objectivelocation_KIDS_DORMS-DORMS_MAIN_HALL", "type": "integer"},
+    {"name": "objectivelocation_KITCHEN-DINING_HALL", "type": "integer"}, {"name":
+    "objectivelocation_KITCHEN-ENGINE_CONTROL", "type": "integer"}, {"name": "objectivelocation_KITCHEN-PIANO_ROOM",
+    "type": "integer"}, {"name": "objectivelocation_KITCHEN-PROJECTOR_ROOM", "type":
+    "integer"}, {"name": "objectivelocation_KITCHEN-TROPHY_ROOM", "type": "integer"},
+    {"name": "objectivelocation_KITCHEN_PREP-BAKERY", "type": "integer"}, {"name":
+    "objectivelocation_LAUDRY_ROOM-SUPPLY_ROOM", "type": "integer"}, {"name": "objectivelocation_LIVING_ROOM-TRAINING_ROOM",
+    "type": "integer"}, {"name": "objectivelocation_LOBBY-PRESS_ROOM", "type": "integer"},
+    {"name": "objectivelocation_LOCKERS-CCTV_ROOM", "type": "integer"}, {"name": "objectivelocation_MAPS_ROOM-COCKPIT",
+    "type": "integer"}, {"name": "objectivelocation_MASTER_BEDROOM-OFFICE", "type":
+    "integer"}, {"name": "objectivelocation_MEETING_ROOM-EXECUTIVE_OFFICE", "type":
+    "integer"}, {"name": "objectivelocation_READING_ROOM-LIBRARY", "type": "integer"},
+    {"name": "objectivelocation_REAR_STAGE-WATCH_TOWER", "type": "integer"}, {"name":
+    "objectivelocation_ROWING_MUSEUM-TROPHY_ROOM", "type": "integer"}, {"name": "objectivelocation_SERVER_ROOM-CONTROL_ROOM",
+    "type": "integer"}, {"name": "objectivelocation_SERVER_ROOM-ENGINE_STORAGE", "type":
+    "integer"}, {"name": "objectivelocation_STAFF_ROOM-OPEN_AREA", "type": "integer"},
+    {"name": "objectivelocation_STAFF_SECTION-EXECUTIVE_BEDROOM", "type": "integer"},
+    {"name": "objectivelocation_TELLERS''_OFFICE-ARCHIVES", "type": "integer"}, {"name":
+    "objectivelocation_TRAINING_ROOM-GARAGE", "type": "integer"}, {"name": "objectivelocation_TV_ROOM-KITCHEN",
+    "type": "integer"}, {"name": "objectivelocation_VENTILATION_ROOM-WORKSHOP", "type":
+    "integer"}, {"name": "objectivelocation_WINE_CELLAR-SNOWMOBILE_GARAGE", "type":
+    "integer"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2023-04-20 13:17:10.551483'

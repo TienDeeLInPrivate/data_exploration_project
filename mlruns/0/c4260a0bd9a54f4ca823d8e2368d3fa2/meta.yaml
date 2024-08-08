@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/c4260a0bd9a54f4ca823d8e2368d3fa2/artifacts
+end_time: 1681996564511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4260a0bd9a54f4ca823d8e2368d3fa2
+run_name: likeable-crane-126
+run_uuid: c4260a0bd9a54f4ca823d8e2368d3fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996561796
+status: 3
+tags: []
+user_id: linibm

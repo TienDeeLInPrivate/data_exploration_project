@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/7b8af9c83db440bc8823b20e9b0614e3/artifacts
+end_time: 1681996693265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b8af9c83db440bc8823b20e9b0614e3
+run_name: sneaky-gull-329
+run_uuid: 7b8af9c83db440bc8823b20e9b0614e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996690304
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/ba5d23876d4345a8b59e880e7b571fb6/artifacts
+end_time: 1681996623733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba5d23876d4345a8b59e880e7b571fb6
+run_name: burly-shad-193
+run_uuid: ba5d23876d4345a8b59e880e7b571fb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996620962
+status: 3
+tags: []
+user_id: linibm

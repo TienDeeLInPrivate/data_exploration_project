@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/280650a927214559b66478983356661d/artifacts
+end_time: 1681996558978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 280650a927214559b66478983356661d
+run_name: wise-grub-116
+run_uuid: 280650a927214559b66478983356661d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996556306
+status: 3
+tags: []
+user_id: linibm

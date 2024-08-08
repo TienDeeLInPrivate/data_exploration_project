@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/563311348b7e4326b9fbcc9439f7829a/artifacts
+end_time: 1681996556299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 563311348b7e4326b9fbcc9439f7829a
+run_name: resilient-shark-281
+run_uuid: 563311348b7e4326b9fbcc9439f7829a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996553625
+status: 3
+tags: []
+user_id: linibm

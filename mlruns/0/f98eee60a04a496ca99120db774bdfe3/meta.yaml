@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/f98eee60a04a496ca99120db774bdfe3/artifacts
+end_time: 1681996696241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f98eee60a04a496ca99120db774bdfe3
+run_name: nosy-tern-608
+run_uuid: f98eee60a04a496ca99120db774bdfe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996693272
+status: 3
+tags: []
+user_id: linibm

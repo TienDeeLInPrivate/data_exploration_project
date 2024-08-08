@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/c3f1df49d5b041e09c29f33a75d8e58b/artifacts
+end_time: 1681996678673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3f1df49d5b041e09c29f33a75d8e58b
+run_name: nosy-snake-984
+run_uuid: c3f1df49d5b041e09c29f33a75d8e58b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996675754
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/4f68d514bccd4cafbd4bb9b3047b5bde/artifacts
+end_time: 1681996655489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f68d514bccd4cafbd4bb9b3047b5bde
+run_name: colorful-hound-445
+run_uuid: 4f68d514bccd4cafbd4bb9b3047b5bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996652734
+status: 3
+tags: []
+user_id: linibm

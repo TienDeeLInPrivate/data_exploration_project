@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/b8f38a9e45a441539945c91d57bd7388/artifacts
+end_time: 1681996690298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8f38a9e45a441539945c91d57bd7388
+run_name: delicate-dove-789
+run_uuid: b8f38a9e45a441539945c91d57bd7388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996687418
+status: 3
+tags: []
+user_id: linibm

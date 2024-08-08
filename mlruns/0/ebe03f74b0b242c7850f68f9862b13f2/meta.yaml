@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/ebe03f74b0b242c7850f68f9862b13f2/artifacts
+end_time: 1681996675747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebe03f74b0b242c7850f68f9862b13f2
+run_name: sedate-dove-717
+run_uuid: ebe03f74b0b242c7850f68f9862b13f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996672814
+status: 3
+tags: []
+user_id: linibm

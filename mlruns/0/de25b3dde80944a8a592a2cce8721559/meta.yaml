@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/de25b3dde80944a8a592a2cce8721559/artifacts
+end_time: 1681996584447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de25b3dde80944a8a592a2cce8721559
+run_name: melodic-sloth-305
+run_uuid: de25b3dde80944a8a592a2cce8721559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996581386
+status: 3
+tags: []
+user_id: linibm

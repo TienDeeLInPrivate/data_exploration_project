@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/c6833334bb0647afabfcd7ba02cbc459/artifacts
+end_time: 1681996669835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6833334bb0647afabfcd7ba02cbc459
+run_name: adorable-elk-985
+run_uuid: c6833334bb0647afabfcd7ba02cbc459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996667000
+status: 3
+tags: []
+user_id: linibm

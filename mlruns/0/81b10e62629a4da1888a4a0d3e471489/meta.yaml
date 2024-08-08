@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/81b10e62629a4da1888a4a0d3e471489/artifacts
+end_time: 1681996609711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81b10e62629a4da1888a4a0d3e471489
+run_name: mysterious-hog-14
+run_uuid: 81b10e62629a4da1888a4a0d3e471489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996606702
+status: 3
+tags: []
+user_id: linibm

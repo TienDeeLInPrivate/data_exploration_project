@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/d0617bddf8ce4e458184460a17e18d36/artifacts
+end_time: 1681996626608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0617bddf8ce4e458184460a17e18d36
+run_name: placid-ram-216
+run_uuid: d0617bddf8ce4e458184460a17e18d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996623740
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/63c00d8d2c594d4ba6f097e6c68bb604/artifacts
+end_time: 1681996647244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63c00d8d2c594d4ba6f097e6c68bb604
+run_name: hilarious-sloth-510
+run_uuid: 63c00d8d2c594d4ba6f097e6c68bb604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996644084
+status: 3
+tags: []
+user_id: linibm

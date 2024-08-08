@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/038b31bd05df42d2992b52bed71800bc/artifacts
+end_time: 1681996672808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 038b31bd05df42d2992b52bed71800bc
+run_name: agreeable-cub-697
+run_uuid: 038b31bd05df42d2992b52bed71800bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996669841
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/507618ec5ac140ea878b048271106f7d/artifacts
+end_time: 1681996595787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 507618ec5ac140ea878b048271106f7d
+run_name: classy-whale-155
+run_uuid: 507618ec5ac140ea878b048271106f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996593050
+status: 3
+tags: []
+user_id: linibm

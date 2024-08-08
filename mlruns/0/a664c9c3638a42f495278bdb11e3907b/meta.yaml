@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/a664c9c3638a42f495278bdb11e3907b/artifacts
+end_time: 1681996550861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a664c9c3638a42f495278bdb11e3907b
+run_name: youthful-whale-854
+run_uuid: a664c9c3638a42f495278bdb11e3907b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996548170
+status: 3
+tags: []
+user_id: linibm

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/AbgabeDataExplorationR6/mlruns/0/db9359f5e0064cbc876f9c0cce6cff7f/artifacts
+end_time: 1681996561790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db9359f5e0064cbc876f9c0cce6cff7f
+run_name: flawless-fawn-521
+run_uuid: db9359f5e0064cbc876f9c0cce6cff7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681996558984
+status: 3
+tags: []
+user_id: linibm
